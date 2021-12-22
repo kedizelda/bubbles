@@ -1,0 +1,4 @@
+/* these styles remove the space & scrollbars around the canvas */  
+body {margin:0; padding:0;}  
+canvas {display:block;}    
+body {background-color: black;}
